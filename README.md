@@ -16,7 +16,9 @@ Select any of the 7 available options:
 
 ## Structure
 The project is split up between two `.py` files, i.e. `main.py` and `cart.py`.
+
 `main.py` is the main file of the program and `cart.py` is the Class file for the cart system used by `main.py`
+
 There are also three different `.json` files, these are used for storing different types of data in the project.
 
 Enjoy!
